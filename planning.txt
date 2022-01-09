@@ -1,0 +1,23 @@
+PAGES -->
+Home
+Delivery
+Dining Out
+Night Life
+
+AUTH / PRIVATE PAGES --->
+Profile page
+
+TECH STACKS -->
+MongoDB as a Database
+AWS S3 Cloud storage - images
+
+DATABASE PLANNING -->
+Orders
+Restaurants
+Reviews
+Foods
+Menus
+Images
+
+http://localhost:4000
+http://localhost:4000/auth/google/callback
